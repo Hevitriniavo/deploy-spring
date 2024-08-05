@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: deploy-spring
+
+greeting:
+  msg: ${GREETING_MSG:Default Greeting Message}

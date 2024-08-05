@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: deploy-spring
+
+greeting:
+  msg: Spring sera déployé avec succès
